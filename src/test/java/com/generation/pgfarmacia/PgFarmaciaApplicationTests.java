@@ -1,4 +1,4 @@
-package com.generation.lojadegames;
+package com.generation.pgfarmacia;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
