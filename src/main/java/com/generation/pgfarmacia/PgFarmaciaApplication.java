@@ -1,4 +1,4 @@
-package com.generation.lojadegames;
+package com.generation.pgfarmacia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
