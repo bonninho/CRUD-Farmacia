@@ -21,6 +21,8 @@ public class Categoria {
 	@Size(min = 3, message = "Categoria deve ter no mínimo 3 caracteres")
 	private String nomeCategoria;
 	
+	@NotNull
+	@Size(min = 10, message = "A descrição deve ter no mínimo 10 caracteres")
 	private String descricao;
 	
 	//private List<Produtos> produtos;
